@@ -1,0 +1,53 @@
+#ecipse files
+.settings
+.project
+.classpath
+.springBeans
+
+# OSX files
+.DS_Store
+
+# ideaJ files
+.idea
+.iml
+#target folder
+target
+#svn folder
+.svn
+
+# Gradle build folder
+build
+/client/build
+
+# Eclipse output folder
+bin
+
+# Generated files
+/output
+src/main/resources/META-INF/build-info.properties
+
+# Gradle temp files
+.gradle
+
+/out/
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
